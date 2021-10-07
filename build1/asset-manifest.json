@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.420d92a8.chunk.css",
+    "main.js": "/static/js/main.607c65c8.chunk.js",
+    "main.js.map": "/static/js/main.607c65c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.baf89a49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.baf89a49.js.map",
+    "static/css/2.16cea7cf.chunk.css": "/static/css/2.16cea7cf.chunk.css",
+    "static/js/2.81115297.chunk.js": "/static/js/2.81115297.chunk.js",
+    "static/js/2.81115297.chunk.js.map": "/static/js/2.81115297.chunk.js.map",
+    "static/js/3.0ad5ede4.chunk.js": "/static/js/3.0ad5ede4.chunk.js",
+    "static/js/3.0ad5ede4.chunk.js.map": "/static/js/3.0ad5ede4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.16cea7cf.chunk.css.map": "/static/css/2.16cea7cf.chunk.css.map",
+    "static/css/main.420d92a8.chunk.css.map": "/static/css/main.420d92a8.chunk.css.map",
+    "static/js/2.81115297.chunk.js.LICENSE.txt": "/static/js/2.81115297.chunk.js.LICENSE.txt",
+    "static/media/4z Logo White.4d21c592.svg": "/static/media/4z Logo White.4d21c592.svg",
+    "static/media/4zLogo.49278ab1.svg": "/static/media/4zLogo.49278ab1.svg",
+    "static/media/Bangladesh Army Logo.df2086b5.svg": "/static/media/Bangladesh Army Logo.df2086b5.svg",
+    "static/media/Bangladesh Navy Logo.90ef31a4.svg": "/static/media/Bangladesh Navy Logo.90ef31a4.svg",
+    "static/media/BannerImage.c889a879.png": "/static/media/BannerImage.c889a879.png",
+    "static/media/construction icon.433a0494.svg": "/static/media/construction icon.433a0494.svg",
+    "static/media/consultancy icon.00e12d4e.svg": "/static/media/consultancy icon.00e12d4e.svg",
+    "static/media/development icon.8e764a4e.svg": "/static/media/development icon.8e764a4e.svg",
+    "static/media/OurServices.css": "/static/media/experienceSection.76248457.png",
+    "static/media/Experience.css": "/static/media/experiencesection.76248457.png",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/supply icon.ebbc4412.svg": "/static/media/supply icon.ebbc4412.svg",
+    "static/media/Hero.css": "/static/media/truck.d1732316.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf89a49.js",
+    "static/css/2.16cea7cf.chunk.css",
+    "static/js/2.81115297.chunk.js",
+    "static/css/main.420d92a8.chunk.css",
+    "static/js/main.607c65c8.chunk.js"
+  ]
+}
